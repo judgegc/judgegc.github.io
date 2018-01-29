@@ -1,1 +1,1 @@
-# judgegc.github.io
+# judgegc.github.ioedited
